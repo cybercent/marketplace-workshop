@@ -1,0 +1,40 @@
+{
+	"accounts": {
+		"seller": {
+			"address": "045a1763c93006ca",
+			"privateKey": "321246f535be2aed40a3027987943f075c00a80fc82d81f3503ef979d5f09ba6",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		},
+		"buyer": {
+			"address": "e03daebed8ca0615",
+			"privateKey": "2003d1f66520c9c742d52c47c0763ef0e4d08d1e0380a1874a52d97aea182731",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		},
+		"ft": {
+			"address": "01cf0e2f2f715450",
+			"privateKey": "d95c695f35be537fb40055567cd31a8834af35de8e8c8a8442a3d635541d3eea",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		},
+		"nft": {
+			"address": "179b6b1cb6755e31",
+			"privateKey": "a9a81cdf716f763ac53f59a421e19039dd542ff3a294bde647989841618ea4db",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		},
+		"marketplace": {
+			"address": "f3fcd2c1a78f5eee",
+			"privateKey": "899c6603e5d82964f4d9bc634583c8fd09e1ada4d8838dcdd825b9d6ffebad18",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		},
+		"service": {
+			"address": "f8d6e0586b0a20c7",
+			"privateKey": "9f51ff39b416e0e204c296425f379157d7d7435bfb4a445f8390055328598563",
+			"sigAlgorithm": "ECDSA_P256",
+			"hashAlgorithm": "SHA3_256"
+		}
+	}
+}
